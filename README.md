@@ -1,4 +1,4 @@
-# new_app
+# HeartBeat
 
 ## Project setup
 ```
