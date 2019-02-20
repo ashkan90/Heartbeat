@@ -1,0 +1,16 @@
+{
+	"name": "Heartbeat",
+	"build": {
+	  "nwVersion": "0.35.5"
+	},
+	"main": "http://192.168.1.30:8080",
+	"node-remote": "http://*/*",
+	"window": {
+		"id": "mainWindow",
+		"title": "Heartbeat",
+		"width": 455,
+		"height": 460,
+		"frame": false,
+		"resizeable": true
+	}
+}
